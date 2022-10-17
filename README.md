@@ -10,3 +10,6 @@ Shift+F12 is the shortcut for enabling and disabling the script.
 
 I have more scripts for one click changing speed of clips
 One click importing files from File Explorer or directly from custom player (PotPlayer, AIMPlayer)
+
+
+[DONATE](https://www.paypal.com/donate/?hosted_button_id=VKYHQ2FHJBVYY)
